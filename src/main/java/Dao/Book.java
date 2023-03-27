@@ -1,4 +1,4 @@
-package Book;
+package Dao;
 
 import lombok.Getter;
 import lombok.Setter;
